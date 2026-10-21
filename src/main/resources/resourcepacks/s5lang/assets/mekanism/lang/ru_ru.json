@@ -1,0 +1,16 @@
+{
+  "constants.mekanism.recipe_warning": "Обнаружены сломанные теги в рецептах Mekanism, подробности смотри в логах сервера. Некоторые рецепты будут отсутствовать, а машины могут не принимать ожидаемые ресурсы.",
+  "advancements.mekanism.advanced_qio_drive.title": "Хранилище высокой плотности",
+  "constants.mekanism.debug_title": "Отладка Mekanism",
+  "death.attack.mekanism.laser.player": "%1$s был испепелён, пытаясь сбежать от %2$s.",
+  "energy.mekanism.forge": "Энергия Forge",
+  "energy.mekanism.joules": "Джоуль",
+  "energy.mekanism.joules.plural": "Джоули",
+  "robit_skin.mekanism.ace": "Асек-парад гордости",
+  "robit_skin.mekanism.agender": "Агендер-парад гордости",
+  "robit_skin.mekanism.aro": "Аро-парад гордости",
+  "robit_skin.mekanism.bi": "Би-парад гордости",
+  "robit_skin.mekanism.enby": "Энби-парад гордости",
+  "robit_skin.mekanism.genderfluid": "Гендерфлюид-парад гордости",
+  "robit_skin.mekanism.pan": "Пан-парад гордости"
+}

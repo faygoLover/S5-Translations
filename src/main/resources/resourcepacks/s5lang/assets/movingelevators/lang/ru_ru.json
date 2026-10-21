@@ -1,0 +1,6 @@
+{
+  "movingelevators.elevator.empty": "На текущем этаже нет лифта.",
+  "movingelevators.elevator.invalid_block": "Недопустимый блок '%s' в лифте на позиции %s.",
+  "movingelevators.elevator.no_cabins": "Нет доступных лифтов",
+  "movingelevators.elevator.obstructed": "Пространство кабины заблокировано блоком '%s' в координатах %s."
+}

@@ -1,0 +1,7 @@
+{
+  "item.minecraft.tipped_arrow.effect.chemical_x": "Стрела с химикатом X",
+  "item.minecraft.potion.effect.chemical_x": "Зелье с химикатом X",
+  "item.minecraft.splash_potion.effect.chemical_x": "Взрывное зелье с химикатом X",
+  "item.minecraft.lingering_potion.effect.chemical_x": "Туманное зелье с химикатом X",
+  "effect.mutantmonsters.chemical_x": "Химикат X"
+}

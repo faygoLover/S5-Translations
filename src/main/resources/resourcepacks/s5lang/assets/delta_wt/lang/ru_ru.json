@@ -1,0 +1,16 @@
+{
+  "item.delta_wt.annihil": "§4Тёмная §eзвезда",
+  "item.delta_wt.cobra_vanguard": "§eКобра-авангард",
+  "item.delta_wt.executor": "§4Палач",
+  "item.delta_wt.mercy": "§rМилосердие",
+  "item.delta_wt.null_annihil": "§f\"Свободная Тёмная звезда\"",
+  "item.delta_wt.observer": "§5Падшая звезда",
+  "item.delta_wt.polaris": "§bКлинок Десмулена",
+  "item.delta_wt.quenching": "§6Клык дракона",
+  "item.delta_wt.shadowkiller": "§4Огненная сова",
+  "item.delta_wt.silencefd": "§7Кинжал TAC",
+  "item.delta_wt.thieve_sea": "§9Морской блеск",
+  "item.delta_wt.treasure_kn": "§cКрид",
+  "pack.delta_wt.default_pack.desc": "Холодное оружие из DeltaForce",
+  "pack.delta_wt.default_pack.name": "Набор ближнего боя DeltaForce"
+}

@@ -1,0 +1,21 @@
+{
+  "itemGroup.marbleds_melees": "Холодняк Мраморного",
+  "item.marbledsmelees.crowbar": "Монтировка",
+  "item.marbledsmelees.fire_axe": "Пожарный топор",
+  "item.marbledsmelees.modern_axe": "Современный топор",
+  "item.marbledsmelees.tomahawk": "Томагавк",
+  "item.marbledsmelees.pipe_wrench": "Газовый ключ",
+  "item.marbledsmelees.sledgehammer": "Кувалда",
+  "item.marbledsmelees.bone_saw": "Хирургическая пила",
+  "item.marbledsmelees.police_baton": "Полицейская дубинка",
+  "item.marbledsmelees.machete": "Мачете",
+  "item.marbledsmelees.stop_sign": "СТОП!",
+  "item.marbledsmelees.pipe": "Отрезок трубы",
+  "item.marbledsmelees.combat_knife": "Боевой нож",
+  "item.marbledsmelees.katana": "Катана",
+  "item.marbledsmelees.tanto": "Танто",
+  "item.marbledsmelees.golf_club": "Клюжка для гольфа",
+  "item.marbledsmelees.baseball_bat": "Бейсбольная бита",
+  "item.marbledsmelees.barbed_baseball_bat": "Бейсбольная бита с гвоздями",
+  "item.marbledsmelees.steel_baseball_bat": "Стальная бейсбольная бита"
+}

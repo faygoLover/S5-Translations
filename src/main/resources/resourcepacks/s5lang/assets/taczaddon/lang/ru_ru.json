@@ -1,0 +1,9 @@
+{
+  "gui.taczaddon.gun_smith_table.crafted": "Создано: %s",
+  "gui.taczaddon.gun_smith_table.default_prop": "Фильтр свойств",
+  "gui.taczaddon.gun_smith_table.page_index": "%s (Страница-%s/%s)",
+  "key.categories.taczaddon": "TaCZ addon",
+  "key.taczaddon.switch_gun.desc": "Быстрое переключение оружия",
+  "tooltip.taczaddon.ammo_box": "Shift + ПКМ, чтобы собрать всё.",
+  "tooltip.taczaddon.more_attachment_info": "Держи оружие в руке, чтобы увидеть больше."
+}

@@ -1,0 +1,5 @@
+{
+  "snowrealmagic.config.debug.preventWorldgenLogSpam.desc": "Предотвращает безвредный спам в логах от заснеженных блоков при генерации мира",
+  "snowrealmagic.config.debug.skipSnowLoggingMushroom.desc": "Пропускать снежное логирование грибных блоков при генерации мира, так как из-за недостаточной темноты это вызывает ошибки",
+  "snowrealmagic.config.debug.weatherTickSlowness.desc": "Скорость тиков дождя и снега. По умолчанию 16"
+}

@@ -1,0 +1,4 @@
+{
+  "emotecraft.otherconfig.alwaysOpenScreen": "Открывать экран эмоций, даже если камера отсоединена",
+  "emotecraft.otherconfig.alwaysOpenScreen.tooltip": "Некоторые моды (Freecam) могут управлять игроком при отсоединённой камере; эта настройка переопределит условие открытия экрана эмоций"
+}

@@ -1,0 +1,14 @@
+{
+  "item.camping.marshmallow": "Маршмеллоу",
+  "item.camping.marshmallow_on_a_stick": "Маршмеллоу на палочке",
+  "item.camping.roasted_marshmallow": "Жареный маршмеллоу",
+  "item.camping.walking_stick": "Трость",
+  "itemGroup.camping": "[Let's Do] Кемпинг",
+  "tooltip.camping.canbeplaced": "Можно разместить",
+  "tooltip.camping.marshmallow_stage.charred": "Обугленный",
+  "tooltip.camping.marshmallow_stage.default": "Необжаренный",
+  "tooltip.camping.marshmallow_stage.melted": "Расплавленный",
+  "tooltip.camping.marshmallow_stage.totally_burnt": "Полностью сгоревший",
+  "tooltip.camping.marshmallow_stage.warmed": "Подогретый",
+  "tooltip.camping.multitool": "ПКМ — повернуть блоки"
+}

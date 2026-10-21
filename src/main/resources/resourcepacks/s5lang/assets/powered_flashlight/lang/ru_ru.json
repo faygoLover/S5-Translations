@@ -1,0 +1,8 @@
+{
+  "item.powered_flashlight.flashlight": "Фонарик",
+  "itemGroup.powered_flashlight": "Фонарик с питанием",
+  "subtitles.powered_flashlight.item.flashlight.togglefail": "Не удалось переключить фонарик",
+  "subtitles.powered_flashlight.item.flashlight.toggleoff": "Фонарик выключен",
+  "subtitles.powered_flashlight.item.flashlight.toggleon": "Фонарик включён",
+  "tooltip.powered_flashlight.energy": "%s/%s FE"
+}

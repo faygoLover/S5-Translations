@@ -1,0 +1,16 @@
+{
+  "key.categories.simplevoicedistance": "Simple Voice Distance",
+  "key.simplevoicedistance.cycle": "Переключить дистанцию голоса",
+  "key.simplevoicedistance.cycle_back": "Переключить дистанцию голоса назад",
+  "key.simplevoicedistance.toggle_hud": "Скрыть значок дистанции голоса",
+  "label.simplevoicedistance.call": "Оклик",
+  "label.simplevoicedistance.normal": "Обычная",
+  "label.simplevoicedistance.shout": "Крик",
+  "label.simplevoicedistance.whisper": "Шёпот",
+  "message.simplevoicedistance.feedback": "Сообщить об ошибке и оставить отзыв",
+  "message.simplevoicedistance.welcome_simple": "Спасибо за использование %s v%s от %s!",
+  "tooltip.simplevoicedistance.call": "Средняя дальность, чтобы окликнуть игроков рядом",
+  "tooltip.simplevoicedistance.normal": "Стандартная дальность для повседневного общения",
+  "tooltip.simplevoicedistance.shout": "Большая дальность для объявлений и больших собраний",
+  "tooltip.simplevoicedistance.whisper": "Малая дальность для приватных разговоров"
+}

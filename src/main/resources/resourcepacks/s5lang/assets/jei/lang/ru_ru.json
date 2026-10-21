@@ -1,0 +1,9 @@
+{
+  "description.jei.wooden.door.1": "Деревянные двери не пускают монстров в ваш дом.\\nТестовые предложения.",
+  "description.jei.wooden.door.2": "Щелчок по двери открывает или закрывает её.",
+  "description.jei.wooden.door.3": "Деревянные двери можно открывать и закрывать редстоун-схемами.",
+  "description.jei.debug.formatting.1": "Проверка подстановки форматирования %s.",
+  "description.jei.debug.formatting.2": "Проверка подстановки форматирования %s %s.",
+  "description.jei.debug.formatting.3": "%s вложенное",
+  "jei.alias.panda.spawn.egg": "вымирающий вид"
+}

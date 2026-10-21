@@ -1,0 +1,16 @@
+{
+  "entity_model_features.config.animate_once": "Анимировать модели один раз на сущность",
+  "entity_model_features.config.debug_right_click": "Показывать отладку EMF по ПКМ на сущности",
+  "entity_model_features.config.debug_right_click.tooltip": "Если включено, по ПКМ на сущности отладочные данные EMF\nвыводятся в лог и в чат.",
+  "entity_model_features.config.force_models": "Не давать перекрывать модели EMF",
+  "entity_model_features.config.force_models.tooltip": "Пытается заставить отрисовщики сущностей использовать модели EMF\n это может перекрыть ванильные модели, изменённые другими модами\n работает не со всеми модами",
+  "entity_model_features.config.options": "Параметры и исправления",
+  "entity_model_features.config.options.tooltip": "Разные параметры основных функций и исправления совместимости с модами",
+  "entity_model_features.config.texture_override_mode": "Текстуры частей модели",
+  "entity_model_features.config.texture_override_mode.dont": "Не учитывать замену текстур",
+  "entity_model_features.config.texture_override_mode.emf": "Через код EMF",
+  "entity_model_features.config.texture_override_mode.iris": "Сначала через Iris",
+  "entity_model_features.config.texture_override_mode.tooltip": "Как EMF отрисовывает части модели, у которых задана своя текстура,\nнапример если у модели крипера отдельная текстура для головы.\nЕсть два способа: мой код или особенность мода Iris.\nМой код «работает», но я не эксперт в буферах отрисовки, и он может давать проблемы.\nСпособ через Iris простой и вроде бы надёжный, но, говорят, Iris так работать не задумывал.\nЕсли Iris не установлен, вариант Iris переключается на код EMF.\nПочти всегда оставляйте по умолчанию — менять стоит только при отладке текстур частей модели.",
+  "entity_model_features.config.tools": "Инструменты",
+  "entity_model_features.config.tools.tooltip": "Дополнительные инструменты для создания моделей и распознавания пользовательских моделей"
+}

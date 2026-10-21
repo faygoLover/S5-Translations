@@ -1,0 +1,22 @@
+{
+  "item.cybernetic_system.mb_2_hellhound_spawn_egg": "Яйцо призыва MB2 «Адская гончая»",
+  "item.cybernetic_system.cubernetics_systems_item": "Кибернетические системы",
+  "entity.cybernetic_system.sit": "Сиденье",
+  "gui.cybernetic_system.gui_new_dna_update.tooltip_your_damage_has_been_increased1": "Ваш урон увеличен",
+  "gui.cybernetic_system.gui_new_dna_update.tooltip_your_damage_has_been_increased2": "Ваш урон увеличен",
+  "item.cybernetic_system.sc_4_blue_spawn_egg": "Яйцо призыва SC4",
+  "item.cybernetic_system.sc_4_green_spawn_egg": "Яйцо призыва SC4",
+  "gui.cybernetic_system.gui_phone.tooltip_the_required_access_level_was_no": "Требуемый уровень доступа не обнаружен",
+  "gui.cybernetic_system.gui_implantus_ih.label_increases_maximum_health": "Увеличивает максимальное здоровье",
+  "effect.cybernetic_system.interferences": "Помехи",
+  "gui.cybernetic_system.gui_implantus_bmm.label_increases_attack_power": "Увеличивает силу атаки",
+  "item.cybernetic_system.mb_1_spawn_egg": "Яйцо призыва MB1",
+  "gui.cybernetic_system.gui_basic_terminal_cyborg.tooltip_the_module_system": "Модульная система",
+  "item.cybernetic_system.sc_4_spawn_egg": "Яйцо призыва SC4",
+  "gui.cybernetic_system.gui_implantus_nano_luck.label_relieves_some_of_the_negative_ef": "Ослабляет часть негативных эффектов.",
+  "item.cybernetic_system.at_3_spawn_egg": "Яйцо призыва AT3",
+  "gui.cybernetic_system.gui_new_dna_update.tooltip_your_damage_has_been_increased": "Ваш урон увеличен",
+  "item.cybernetic_system.sc_4_purple_spawn_egg": "Яйцо призыва SC4",
+  "key.cybernetic_system.cyber_infectiononoff": "Кибер-заражение: вкл/выкл",
+  "gui.cybernetic_system.gui_craft_med_shy.tooltip_create": "Создать"
+}
