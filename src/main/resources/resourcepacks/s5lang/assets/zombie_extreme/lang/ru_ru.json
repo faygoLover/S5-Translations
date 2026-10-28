@@ -81,5 +81,6 @@
   "entity.zombie_extreme.night_hunter": "Ночной охотник",
   "item.zombie_extreme.divided_spawn_egg": "Яйцо призыва разделённого",
   "entity.zombie_extreme.infected_hazmat": "Заражённый в химзащите",
-  "gui.zombie_extreme.vending_machine_gui.label_vending_machine": "Торговый автомат"
+  "gui.zombie_extreme.vending_machine_gui.label_vending_machine": "Торговый автомат",
+  "item.zombie_extreme.canned_food": "Киббл"
 }
